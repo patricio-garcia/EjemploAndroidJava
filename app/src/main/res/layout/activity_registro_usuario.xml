@@ -71,6 +71,14 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tx_PasswordRegister" />
 
+    <TextView
+        android:id="@+id/lb_Edad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/edad"
+        app:layout_constraintEnd_toStartOf="@+id/sp_Age"
+        tools:layout_editor_absoluteY="377dp" />
+
     <Spinner
         android:id="@+id/sp_Age"
         android:layout_width="wrap_content"
