@@ -58,19 +58,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tx_EmailRegister" />
 
-    <EditText
-        android:id="@+id/tx_PasswordRegisterRepeat"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="30dp"
-        android:autofillHints=""
-        android:ems="10"
-        android:hint="@string/repetir_password"
-        android:inputType="textPassword"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tx_PasswordRegister" />
-
     <TextView
         android:id="@+id/lb_Edad"
         android:layout_width="wrap_content"
@@ -88,7 +75,7 @@
         android:entries="@array/Age"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tx_PasswordRegisterRepeat" />
+        app:layout_constraintTop_toBottomOf="@+id/tx_PasswordRegister" />
 
     <RadioGroup
         android:id="@+id/radioGroup2"
