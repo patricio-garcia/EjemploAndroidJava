@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mi Primer Proyecto</string>
+    <string name="title_activity_home_detail">HomeDetailActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hellow_world">Hola Mundo!</string>
+    <string name="image">Image</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="create_account">Create Account</string>
+    <string name="last_name">Last Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="usuariologin">Usuario</string>
+    <string name="reg_strese">Regístrese</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="usuario">Usuario</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="registro_de_usuario">Registro de Usuario</string>
+    <string name="repetir_password">Repetir Password</string>
+
+</resources>
