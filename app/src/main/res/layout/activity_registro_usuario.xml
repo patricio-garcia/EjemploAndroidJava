@@ -64,7 +64,7 @@
         android:layout_height="wrap_content"
         android:text="@string/edad"
         app:layout_constraintEnd_toStartOf="@+id/sp_Age"
-        tools:layout_editor_absoluteY="377dp" />
+        tools:layout_editor_absoluteY="305dp" />
 
     <Spinner
         android:id="@+id/sp_Age"
